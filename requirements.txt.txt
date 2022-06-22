@@ -1,5 +1,5 @@
 matplotlib==2.2.4
-numpy==1.16.2
+numpy==1.22.0
 pandas==0.24.2
 python-pptx==0.6.18
 Pillow==5.4.1
